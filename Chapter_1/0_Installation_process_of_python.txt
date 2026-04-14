@@ -1,0 +1,11 @@
+step 1:- open any browser (Chrome , brave browser)
+
+step 2:- Search , Python download and click the first one written as Download the latest python version for Windows.
+
+The latest stable release of Python for Windows is Python 3.14.4, released on April 7, 2026.
+
+step 3:- For installation , just keep clicking next , next , next... and click all tick marks.
+
+Now the Python Virtual Machine is installed as Python 3.14.4 . Now , we need a code editor or IDE (Itegrated Development Environment) to write the python code. Downloading VS Code as i don't want to write codes in the Terminal.
+
+There are many IDEs :- ( Pycharm , Vs Code , Jupiter ).
