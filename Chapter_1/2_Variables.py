@@ -19,3 +19,12 @@ print("Changed Value :" , age2)
 
 name = input("Enter your name : ")
 print("Hello !" , name)
+
+
+# There are 3 types of variable writing 
+
+SheryiansSchool = "Students" #Pascal case
+
+sheryiansSchool = "Students" #Camel case
+
+sheryians_school = "Students" #Snake case
