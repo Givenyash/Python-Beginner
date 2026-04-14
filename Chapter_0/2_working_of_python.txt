@@ -1,0 +1,7 @@
+There are two types of language : 1- Compiled language 2- Interpret language
+
+Compile type :- It reads line by line all the code and converts into Byte code and executes in a single time.
+
+Interpret type :- It reads line by line all the code and converts into Byte code and executes line-by-line. It reads line 1 then executes it then move forward. Again , reads line 2 , executes it then move forward. 
+
+The Python Virtual Machine (PYM) executes the code in python language.
