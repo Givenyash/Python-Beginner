@@ -1,0 +1,5 @@
+The story starts in the late 1980's .There was a person , Guido van Rossum , He was wroking on a programming language who's name is ABC Language. ABC language was very simple to write and learn but there was a problem that ABC lang was very limited.
+
+SO, Guido van Rossum thought that , there should be a language that is simple and powerful. From there , The beginning og Python language occured.
+
+In 1992 , Guido launched the first version of python which was python 0.9.0
