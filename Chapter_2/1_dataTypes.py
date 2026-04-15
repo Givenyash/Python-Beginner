@@ -9,14 +9,15 @@ print("DataType of of the variable area : ",type(area))
 
 # Data Types in python 
 
-# Integeres
-# Float
-# Boolean :- True or False , T and F should be capital.
-# Complex 
+# => Integeres
+# => Float
+# => Boolean :- True or False , T and F should be capital.
+
+# => Complex 
 v = 34j # imaginary number
 print(type(v))
 
-# String :- you can make a string by using double quotes or single quotes.
+# => String :- you can make a string by using double quotes or single quotes.
 # ord() is used to find ASCII value and chr() is used to convert the ASCII value into number.
 
 
