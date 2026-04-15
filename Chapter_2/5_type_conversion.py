@@ -11,4 +11,15 @@ x = "10"   #string
 y = int(x)  #str --> int
 print(y+5)   # output: 15
 
-# common functions : int() , float(), str(), bool()
+# common type conversion functions : int(), float(), str(), bool()
+# others are : complex(), list(), tuple(), set(), dict()
+
+# to convert from one to another dataType
+
+# Falsy values (7) : 
+# 0
+# 0.0
+# " " empty string
+# [ ] empty list
+# ( ) empty tupple
+# { } empty dictionary
