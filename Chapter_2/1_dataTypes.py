@@ -7,7 +7,14 @@ print("DataType of of the variable name : ",type(name))
 print("DataType of of the variable age : ",type(age))
 print("DataType of of the variable area : ",type(area))
 
-# Data Types in python 
+# Data Types in python : 
+
+# ==> Numeric :- int, float, complex
+# ==> Sequence Type :- string, list, tuple
+# ==> Mapping Type :- dict
+# ==> Boolean :- bool
+# ==> Set Type :- set, frozenset
+# ==> Binary Types :- bytes, bytearray, memoryview
 
 # => Integeres
 # => Float
