@@ -2,10 +2,10 @@
 
 gender = input("What is your gender ?")
 
-if gender == "male":
+if gender == "male" or 'Male' or 'MALE':
     print("Hello!! this message is for male candidates.")
 
-elif gender == "female":
+elif gender == "female"or 'Female' or 'FEMALE':
     print("Hey!! this message is for female candidates.")
 
 else:
