@@ -1,0 +1,17 @@
+What is while loop and why while loop when we have already for loops??
+
+So the answer is clear , when we don't know at how many iterations does i can get the result , there we use While loop instead of for loops. 
+
+In for loops, we already know the number of iterations.
+
+The while loop repeats a block of code as long as a condition is True. 
+
+
+SYNTAX :
+
+
+// initialization;
+while() // condition {
+    // block of code
+}
+// Updation;
