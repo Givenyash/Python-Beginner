@@ -1,0 +1,16 @@
+Data Structures are used to store, organize, and manipulate data efficiently. Python provides several built - in data structures.
+
+And for storing multiple values we will again use variabes.
+
+In Python, we have 4 types of in-built data structures:-
+1)- List
+2)- Tuple
+3)- Dictionary
+4)- Set
+
+Custome Data Structures :-
+--> Now there are some custom data structures as well like:- a)- Stack b)- Queue c)- LinkedList d)- Graph, etc.
+
+Around these data structures there are some algorithms like :- Searching Algorithms , sorting algorithms, etc.
+
+And this is why the study is called Data Structure and Algorithm (DSA).
