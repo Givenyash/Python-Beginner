@@ -4,6 +4,6 @@ sum = 0
 for i in num:
     sum = sum + i
 
-print(sum/len(num))
+print(sum/len(num)) 
 
 print(sum , len(num))
