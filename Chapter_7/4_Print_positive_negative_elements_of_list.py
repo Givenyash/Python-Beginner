@@ -1,3 +1,4 @@
+#Print positive and negative elements of a list...
 l = [-45, 67, 12, -68, -69, 34]
 
 print("Positive elements are ")
