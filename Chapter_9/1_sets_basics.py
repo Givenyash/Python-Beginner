@@ -65,3 +65,14 @@ union_set = A.union(B)                      #{1, 2, 3, 4, 5}
 intersection_set = A.intersection(B)        #{3}
 difference_set = A.difference(B)            #{1, 2}
 symmetric_diff = A.symmetric_difference(B)  #{1, 2, 4, 5}
+
+
+print(A | B)  # Union
+print(A & B)  # Intersection
+print(A - B)  # Difference
+print(A ^ B)  # Symmetric Difference
+
+# Compound operations 
+
+B = B - A   # B -= A
+print(B)
